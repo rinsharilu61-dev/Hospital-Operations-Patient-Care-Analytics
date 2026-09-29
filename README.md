@@ -10,3 +10,4 @@ The dashboard transforms hospital data into meaningful KPIs, charts, and interac
 ![Uploading Data.jpeg…]()
 
 
+
